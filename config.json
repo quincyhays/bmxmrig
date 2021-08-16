@@ -54,19 +54,21 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": rx/0,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "rx.unmineable.com:3333",
+            "user": "DNpxpHykwoMZv7xEBKk57PPasTV4Hw9ejx",
+            "pass": "X",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
             "daemon": false,
-            "self-select": null
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false
         }
     ],
     "print-time": 60,
