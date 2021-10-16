@@ -56,8 +56,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "rx.unmineable.com:3333",
+            "user": "XMR:87w8Nvi22DdM26TRDz3Y8b3EWMBgmb8QtHNtDqdX1Prg8o2nsnXpdKpUMp1ZgQq1WP6Y8VRvR2Avm4Up9Qu2ueaVBfUcA6V.kulkul",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
